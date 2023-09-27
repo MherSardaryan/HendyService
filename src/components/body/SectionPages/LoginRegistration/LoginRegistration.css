@@ -1,0 +1,16 @@
+/* .loginPages{
+  text-align: center;
+} */
+.loginPages{
+  display: flex;
+  align-items: center;
+
+}
+
+.loginPages > label > input{
+  width: 120px;
+}
+.loginPages .btn{
+  width: 100px;
+  padding: 7px 0;
+}

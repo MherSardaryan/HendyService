@@ -1,0 +1,37 @@
+
+.event_card{
+    border-radius: 15px;
+    overflow: hidden;
+    border: 1px solid grey;
+    text-align: center;
+    /* margin: 1% 20%; */
+    padding: 1%;
+    /* background-image: url(https://static-cse.canva.com/blob/572626/1.magebyRodionKutsaevviaUnsplash.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover; */
+  
+      color: #000000;
+      /* text-shadow:
+        0 0 7px #fff,
+        0 0 10px #fff,
+        0 0 21px #fff,
+        0 0 42px rgb(0, 60, 255),
+        0 0 82px rgb(0, 60, 255),
+        0 0 92px rgb(0, 60, 255),
+        0 0 102px rgb(0, 60, 255),
+        0 0 151px rgb(0, 60, 255); */
+  
+  }
+
+  .events > ul{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+  .events > ul > li{
+    width: 400px;
+    margin: 1%;
+    
+  }
